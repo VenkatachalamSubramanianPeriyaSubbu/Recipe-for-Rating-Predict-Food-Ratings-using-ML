@@ -39,6 +39,7 @@ The dataset consists of the following files:
 - Scikit-learn
 - Matplotlib
 - Seaborn
+- Note: This project was carried out without the use of libraries like TensorFlow, PyTorch, NLTK, word2vec, textblob etc.
 
 ## Usage
 1. Clone this repository.
