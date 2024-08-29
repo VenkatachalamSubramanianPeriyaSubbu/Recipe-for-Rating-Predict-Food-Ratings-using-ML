@@ -47,6 +47,12 @@ The dataset consists of the following files:
 3. Install the required dependencies
 4. Run the Jupyter notebooks or Python scripts to explore the data, build models, and make predictions.
 
+## Results 
+- Performed exploratory data analysis, multicollinearity handling and feature engineering converting sparse vectors of dimension 15 to dense vectors of dimension 7.
+- Bulit 15+ models
+- Built sentiment analysis algorithm from scratch without the use of any advanced modeling packages.
+- Improved accuracy score from 76% to 99.7% with Precision: 0.998 and of Recall: 0.991 during training
+
 ## Contributors
 - Venkatachalam Subramanian Periya Subbu
 
